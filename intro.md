@@ -5,3 +5,4 @@ One morning, you wake up in a strange room with no idea where it is. There is no
 Which door will you choose?
 
 - [Red Door](red-door.md)
+- [Blue Door](blue-door.md)
