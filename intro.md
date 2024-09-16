@@ -7,3 +7,4 @@ Which door will you choose?
 - [Red Door](red-door.md)
 - [Blue Door](blue-door.md)
 - [Yellow Door](yellow-door.md)
+- [Black Door](black-door.md)
